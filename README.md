@@ -28,6 +28,9 @@
 6. Abrí tu navegador y dirigíte a ```http://localhost:3000``` para ver la aplicación. Deberá mostrar una pantalla como la siguiente: 
 ![imagen](https://i.ibb.co/GFJdgHr/galeria-default.png)
 
+7. Por último, para ver el contenido de la base integrada (SQLite), recomendamos el uso de **DB Browser for SQLite**. Link de descarga: https://sqlitebrowser.org/dl/
+    - El archivo que se debe abrir es **db.sqlite3**.
+
 ### Lo que ya está implementado
 - A nivel **template**, se cuenta con 4 HTMLs: **header (cabecera de la página)**, **footer (pie de página)**, **home (sección donde se mostrarán las imágenes y el buscador)** e **index (contener principal que incluye a los 3 HTMLs anteriores).** Para el caso del *header*, se implementó cierta lógica para determinar si un usuario está logueado (o no) y obtener así su nombre; para el caso del *home*, éste tiene un algoritmo que permite recorrer cada objeto de la API y dibujar su información en pantalla. El *footer* no posee acciones a nivel código relevantes para el desarrollo.
 
