@@ -81,6 +81,12 @@ Las siguientes funcionalidades del juego NO son necesarias para la aprobación (
 
 - **Favoritos** ⭐
   - [explicación]
+ 
+- **Buscador** ⭐
+  - [explicación]
+ 
+- **Inicio de sesión** ⭐
+  - [explicación]
 
 - Paginación de resultados para evitar desplazamiento vertical // en su defecto, **infinite scroll** (estilo Instagram ó Facebook).
   - [explicación]
