@@ -27,9 +27,9 @@
 
 ![imagen](https://i.postimg.cc/JnY2cVWq/python-image.png)
 
-3. Hacé un *fork* del proyecto a tu repositorio (o al del grupo): [tutorial para hacer forks - thx. MitoCode](https://www.youtube.com/watch?v=9YUaf-uxuRM).
+3. Creá una cuenta en GitHub [desde acá](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home). Luego, debés efectuar un *fork* (copia) del proyecto a tu repositorio (o al del grupo): [tutorial para hacer forks - thx. MitoCode](https://www.youtube.com/watch?v=9YUaf-uxuRM).
 
-4. Dentro de la carpeta del repositorio, abrir una terminal de *VS Code* e instalar Django ejecutando el siguiente comando:
+4. Cloná el repositorio copiado en tu máquina local (*git clone*). A continuación, dentro de la carpeta del repositorio local, abrí una terminal de *VS Code* e instalá Django ejecutando el siguiente comando:
 ```pip install django==4.2.10```
 
 5. Instalá las dependencias necesarias:
