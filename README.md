@@ -27,7 +27,7 @@
 
 ![imagen](https://i.postimg.cc/JnY2cVWq/python-image.png)
 
-3. Hacé un *fork* del proyecto a tu repositorio (o al del grupo): [tutorial para hacer forks](X).
+3. Hacé un *fork* del proyecto a tu repositorio (o al del grupo): [tutorial para hacer forks](https://www.youtube.com/watch?v=9YUaf-uxuRM).
 
 4. Dentro de la carpeta del repositorio, abrir una terminal de *VS Code* e instalar Django ejecutando el siguiente comando:
 ```pip install django==4.2.10```
@@ -237,3 +237,4 @@ El trabajo debe ser entregado en la fecha estipulada en el cronograma. **Recorda
 - Sección **GIT**
     - Introducción a GIT: [clic acá](https://www.youtube.com/watch?v=mzHWafbVRyU).
     - Manejo de ramas/branches: [clic acá](https://www.youtube.com/watch?v=BRY9gamL9PE).
+    - Merge & resolución de conflictos: [clic acá](https://www.youtube.com/watch?v=9YUaf-uxuRM).
