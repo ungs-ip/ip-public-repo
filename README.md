@@ -27,7 +27,7 @@
 
 ![imagen](https://i.postimg.cc/JnY2cVWq/python-image.png)
 
-3. Hacé un *fork* del proyecto a tu repositorio (o al del grupo): [tutorial para hacer forks](https://www.youtube.com/watch?v=9YUaf-uxuRM).
+3. Hacé un *fork* del proyecto a tu repositorio (o al del grupo): [tutorial para hacer forks - thx. MitoCode](https://www.youtube.com/watch?v=9YUaf-uxuRM).
 
 4. Dentro de la carpeta del repositorio, abrir una terminal de *VS Code* e instalar Django ejecutando el siguiente comando:
 ```pip install django==4.2.10```
